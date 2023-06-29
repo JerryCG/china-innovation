@@ -1,1 +1,1 @@
-<iframe src="https://public.tableau.com/views/ChinaInnovationPanel/NationalInnovationOverview?:language=en-US&:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '800px'></iframe>
+![Viz](https://public.tableau.com/views/ChinaInnovationPanel/NationalInnovationOverview?:language=en-US&:embed=yes&:display_count=yes&:showVizHome=no)
